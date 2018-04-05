@@ -1,5 +1,5 @@
-# SuperAlfonzoAlpha-Javascript-Testing-Framework
-My custom lightweight Javascript testing framework / get rich quick scheme called SuperAlfonzoAlpha
+# MowgliJS-Testing-Framework
+My custom lightweight Javascript testing framework called Mowgli.JS
 
 ## Readme:
 Until the NPM is ready for release, you can use this framework by including the files into your html files.
