@@ -10,16 +10,16 @@ Passing tests will be displayed in a green font, failing tests will throw an err
 
 ## Methods:
 
---assert.isTrue(*assertionToCheck*)
+--assert.isTrue(*assertionToCheck*)  
 This method checks whether the parameter passed in is true.
 
---assert.isFalse(*assertionToCheck*)
+--assert.isFalse(*assertionToCheck*)  
 This method checks whether the parameter passed in is true.
 
---assert.isEqual(*assertionToCheck1*, *assertionToCheck2*)
+--assert.isEqual(*assertionToCheck1*, *assertionToCheck2*)  
 Checks for equality in both parameters ( == ).
 
---assert.isNotEqual(*assertionToCheck1*, *assertionToCheck2*)
+--assert.isNotEqual(*assertionToCheck1*, *assertionToCheck2*)  
 Checks for inequality in both parameters ( == ).
 
 
